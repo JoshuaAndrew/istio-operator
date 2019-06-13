@@ -24,7 +24,7 @@ bin
 
 .idea/*
 !/.idea/go.imports.xml
-vendor/*
+#vendor/*
 /.licensei.cache
 bin/*
 cover.out
